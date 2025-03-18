@@ -7,7 +7,7 @@
 
 --- 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muh_alwin)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muh.alwin)
 
 ## 🚀 Tech Stack & Expertise
 - **Mobile Development**: Flutter
